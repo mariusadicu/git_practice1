@@ -6,9 +6,9 @@ public class HelloWorld {
 
     // Doing awesome work 3 !
 
-    // Awesome work done and ready to be commited
+    // Awesome work done and ready to be committed
 
-    // and ready to be pushed to remote repository
+    // and ready to be pushed to remote repository.
 
 
 
